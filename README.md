@@ -1,6 +1,6 @@
 # Proyecto de Conversión de Monedas
 
-![Alura](https://github.com/user-attachments/assets/f02995b8-194a-4de3-84a2-267cbdcbe35f)
+![Alura](https://github.com/user-attachments/assets/25d51f6f-6647-41ab-b47d-bd342ad3b015)
 
 Este proyecto es una herramienta que permite realizar conversiones de monedas entre diferentes tipos de cambio utilizando una API externa. El programa permite al usuario seleccionar diferentes opciones de conversión, ingresar la cantidad de dinero a cambiar, y obtener el valor convertido en la moneda deseada. Además, guarda un historial de todas las conversiones realizadas.
 
